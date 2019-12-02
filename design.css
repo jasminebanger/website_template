@@ -47,3 +47,63 @@
     height: 700px;
     filter:contrast(80%);
 }
+#back-txt{
+    width: 750px;
+    height: 450px;
+    position: relative;
+    left: 25%;
+    top: 25%;
+}
+#divs{
+    height: 435px;
+}
+.div3{
+    width: 250px;
+    height: 350px;
+    float: left;
+    margin: 45px 18px;
+    position: relative;
+    left: 185px;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #FFFFFF;
+}
+.div3-img{
+    height: 100px;
+    text-align: center;
+    margin: 28px;
+}
+#market-img{
+    position: relative;
+    top: 6px;
+}
+#maintain-img{
+    position: relative;
+    top: -4px;
+}
+.div3 h2{
+    position: relative;
+    top: -40px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.div3 p{
+    margin: 10px;
+    position: relative;
+    top: -20px;
+    font-size: 15px;
+    font-family: fantasy;
+}
+.div3-btn{
+    font-size: 15px;
+    border: solid 1px black;
+    border-radius: 30px;
+    padding: 4px 8px;
+    font-family: fantasy;
+    background-color: #667873;
+    text-decoration: none;
+    color: white;
+}
+.div3:hover{
+    box-shadow: 0px 0px 15px 15px #F1F4FF;
+}
