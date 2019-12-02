@@ -17,3 +17,33 @@
     left: 380px;
     top: 1px;
 }
+#logo-div{
+    width: 352px;
+}
+#menu{
+    position: relative;
+    left: 500px;
+    top: -44px;
+    font-size: 22px;
+    font-family: sans-serif;
+    width: 800px;
+}
+#menu a{
+    padding: 15px 32px;
+    text-decoration: none;
+    color: white;
+}
+#menu a:hover{
+    background-color: snow;
+    height: 80px;
+    width: 100px;
+    color: black;
+}
+#header{
+    background: url(images/work-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    position: relative;
+    height: 700px;
+    filter:contrast(80%);
+}
