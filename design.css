@@ -2,6 +2,8 @@
     margin: 0px;
     padding: 0px;
 }
+
+/*---------- css for nav bar ---------*/
 #nav{
     height: 58px;
     background: rgb(0,0,0,0.6);
@@ -39,6 +41,8 @@
     width: 100px;
     color: black;
 }
+
+/*------- css for header --------*/
 #header{
     background: url(images/work-bg.jpg);
     background-repeat: no-repeat;
@@ -181,7 +185,8 @@
     height: 100px;
     width: 100px;
     background: black;
-}
+} 
+/*----- css for customers section----*/
 .customers{
     height: 500px;
     width: 870px;
