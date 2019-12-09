@@ -7,3 +7,13 @@ function nanFunction(){
     document.getElementById("block-div").style.display = "none";
     document.getElementById("header").style.filter="none";
 }
+
+function myFunction1(){
+  document.getElementById("block-div1").style.display = "block";
+  document.getElementById("header").style.filter="blur(4px)";
+}
+function nanFunction1(){
+    document.getElementById("block-div1").style.display = "none";
+    document.getElementById("header").style.filter="none";
+}
+
