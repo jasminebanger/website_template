@@ -21,3 +21,6 @@ function myFunction2() {
   document.getElementById("block-div2").style.display = "block";
   document.getElementById("header").style.filter="blur(4px)";
 }
+function nanFunction2(){
+  
+}
