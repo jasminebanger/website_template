@@ -22,5 +22,5 @@ function myFunction2() {
   document.getElementById("header").style.filter="blur(4px)";
 }
 function nanFunction2(){
-  
+  document.getElementById("block-div2").style.display = "none";
 }
