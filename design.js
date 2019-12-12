@@ -25,3 +25,12 @@ function nanFunction2(){
   document.getElementById("block-div2").style.display = "none";
   document.getElementById("header").style.filter="none";
 }
+
+function myFunction3() {
+  document.getElementById("block-div3").style.display = "block";
+  document.getElementById("header").style.filter="blur(4px)";
+}
+function nanFunction3(){
+  document.getElementById("block-div3").style.display = "none";
+  document.getElementById("header").style.filter="none";
+}
