@@ -1,2 +1,2 @@
 # website_template
-it is just a single webpage template
+This is just a single webpage template I have created using HTML, CSS and JS
